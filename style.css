@@ -1,0 +1,52 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.Introduction {
+    width: 100%;
+    height: 100vh;
+    background-color: #edeebf;
+    display: flex;
+    flex-direction: column;
+    color: #323232;
+}
+
+.logo {
+    width: 15%;
+
+}
+
+.image {
+    width: 100%;
+    height: auto; 
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-speaker {
+    mix-blend-mode: multiply;
+    height: 55px;
+    width: auto;
+    opacity: 0.2;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.link2 {
+    display: flex;
+    justify-content: center;
+}
